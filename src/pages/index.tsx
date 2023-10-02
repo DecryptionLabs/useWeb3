@@ -29,7 +29,7 @@ export default function Index(props: Props) {
       <MainLayout className={styles.container}>
         <article>
           <p>
-            useWeb3 is a platform for developers to explore and learn about Web3. Whether youre a new dev getting your
+          useAI is a platform for developers to explore and learn about Web3. Whether youre a new dev getting your
             hands dirty for the first time, or a seasoned developer making the transition into the Web3 space.
           </p>
           <p>
@@ -38,7 +38,7 @@ export default function Index(props: Props) {
         </article>
 
         <article>
-          <h2>Web3 Jobs</h2>
+          <h2>AI</h2>
           <p>
             Browse all jobs to find your Web3, Solidity or blockchain job at one of the leading companies in the space.
           </p>
@@ -46,7 +46,7 @@ export default function Index(props: Props) {
             <Departments departments={DEPARTMENTS} />
           </p>
           <p>
-            Hiring for Web3 jobs? <Link href="/jobs/post">Post your job</Link>
+            Hiring for AI jobs? <Link href="/jobs/post">Post your job</Link>
           </p>
         </article>
 
