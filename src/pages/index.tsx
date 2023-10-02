@@ -29,7 +29,7 @@ export default function Index(props: Props) {
       <MainLayout className={styles.container}>
         <article>
           <p>
-          useAI is a platform for developers to explore and learn about Web3. Whether youre a new dev getting your
+            useAI is a platform for developers to explore and learn about Web3. Whether youre a new dev getting your
             hands dirty for the first time, or a seasoned developer making the transition into the Web3 space.
           </p>
           <p>
